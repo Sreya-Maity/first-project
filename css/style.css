@@ -1,0 +1,146 @@
+body{
+    text-align: center;
+    margin: 0;
+}
+header{
+    position: relative;
+    padding-top: 20px;
+    background-color:#B2F9FC;
+}
+.head-name{
+    text-align: center;
+    font-size: 70px;
+    margin-top: 150px;
+    color: #09009B;
+    font-family: 'Irish Grover', cursive;
+}
+.cloud{
+    position:absolute;
+    margin:50px auto auto 210px;
+    float: right;
+}
+.about{
+    color: #113CFC;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    
+}
+.cloud-two{
+    position: absolute;
+    margin:127px auto auto -186px;
+}
+.shinchan{
+    margin: 30px 0;
+}
+.intro-in-words{
+    margin: 30px 0;
+}
+.heading{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 45px;
+    margin: 25px 10px 10px 10px;
+    color: #1597E5
+}
+.paragraph{
+    font-size: 25px;
+    margin: auto;
+    color: #96BAFF;
+}
+.custom-hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 50px;
+    margin: 100px auto;
+    color: #FF00E4;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+.skill-1{
+    width: 25%;
+    float: left;
+    margin-right: 80px;
+    height: 300px;
+    width: 270px;
+    border-radius: 20%;
+}
+h1{
+    font-size: 40px;
+    color: #316B83;
+}
+.skill{
+    font-size: 30px;
+    color: #00A19D;
+}
+.skill-2{
+    width: 25%;
+    float: right;
+    margin-left: 50px;
+    height: 230px;
+    width: 270px;
+    border-radius: 20%;
+    padding-top: 50px;
+}
+.skill-3{
+    width: 25%;
+    float: left;
+    margin-right: 80px;
+    height: 260px;
+    width: 270px;
+    border-radius: 20%;
+}
+.skill-about{
+    padding-top: 10px;
+}
+.explain{
+    font-weight: normal;
+    font-size: 20px;
+    color: #0CECDD;
+}
+.myButton {
+	box-shadow: 6px 10px 20px -10px #276873;
+	background:linear-gradient(to bottom, #0cc5e6 5%, #408c99 100%);
+	background-color:#0cc5e6;
+	border-radius:14px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:italic;
+	padding:10px 35px;
+	text-decoration:none;
+	text-shadow:3px -3px 3px #3d768a;
+    margin: 50px auto 70px auto;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #0cc5e6 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+footer{
+    background-color:#B2F9FC;
+    padding: 40px 0 40px 0;
+}
+.connector{
+    text-align: center;
+    padding: 0 30px 0 30px;
+    text-decoration: none;
+    font-family: 'Anton', sans-serif;
+    color: #FFBCBC;
+}
+.connector:hover {
+    color: #DF5E5E;
+    box-shadow: 0 0 0.8em, 0 0 0.4em #EEEBDD;
+}
+p{
+    padding-top: 40px;
+}
